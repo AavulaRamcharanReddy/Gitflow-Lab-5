@@ -4,4 +4,4 @@ This project demonstrates Git Flow concepts including repository creation, branc
 
 ## Objective
 
-To understand and implement Git branching and merging workflows using Git and GitHub.
+To understand Git Flow branching and merging on the develop branch.
