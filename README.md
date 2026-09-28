@@ -5,7 +5,7 @@ feature development, merging, and conflict resolution.
 
 ## Objective
 
-To understand Git Flow branching and merging on the feature branch.
+To understand Git Flow branching and merging across feature and develop branches.
 
 ## Conflict Feature
 
