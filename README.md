@@ -5,3 +5,6 @@ This project demonstrates Git Flow concepts including repository creation, branc
 ## Objective
 
 To understand and implement Git branching and merging workflows using Git and GitHub.
+## Conflict Feature
+
+This change is from the feature/conflict branch.
